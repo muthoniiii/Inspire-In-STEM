@@ -82,10 +82,10 @@ age=25
 
 if age >= 18:
    # print("You are allowed to drive") 
-else:
+#else:
     #print("you are too young to drive")
 
-gender = input()
+#gender = input()
 
 
 

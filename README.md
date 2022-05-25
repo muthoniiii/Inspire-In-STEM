@@ -85,10 +85,20 @@ Day 5:
 
 Day 7 :
 >Building  programs
+>for loops
 ![Lesson9](./images/Screenshot%20(174).png)
 ![Assignment3](./images/Screenshot%20(175).png)
 
-
+Day 8 :
+>Data structures
+>whats a dictionary
+>accessing something in a dictionary
+>removing something in a dictionary
+>looping over dictionaries
+>adding things to a dictionary
+![Lesson9](./images/Screenshot%20(177).png)
+![Lesson9](./images/Screenshot%20(178).png)
+![lesson9](./images/Screenshot%20(179).png)
 
 
 ## Week 3: Introduction to Robotics
