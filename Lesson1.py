@@ -18,4 +18,5 @@ print("I like Kdramas")
 print("I AM AN ARMY")
 print("BTS")
 print("I love call of duty")
-print("i love football")
+#Print your words with spaces or adding tabs
+print("Monday\tTuesday\tWednesday\tThursday\t")
