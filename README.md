@@ -100,6 +100,28 @@ Day 8 :
 ![Lesson9](./images/Screenshot%20(178).png)
 ![lesson9](./images/Screenshot%20(179).png)
 
+Day 9 :
+>Loops
+>Conditions
+>even numbers
+>operands
+![pyramids](./images/Screenshot%20(180).png)
+![lesson10](./images/Screenshot%20(182).png)
+![lesson10](./images/Screenshot%20(183).png)
+![assignment5](./images/Screenshot%20(184).png)
+
+Day 10:
+>Patterns
+>pyramids
+>arithmetic progression
+>Geometric progression
+![assignments6](./images/Screenshot%20(185).png)
+![assignments6](./images/Screenshot%20(186).png)
+![assignment6](./images/Screenshot%20(187).png)
+![assignment6](./images/Screenshot%20(188).png)
+![assignment](./images/Screenshot%20(189).png
+
+
 
 ## Week 3: Introduction to Robotics
 

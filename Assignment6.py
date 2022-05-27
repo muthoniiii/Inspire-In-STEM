@@ -1,0 +1,9 @@
+#Geometric progression
+
+
+
+
+
+
+
+

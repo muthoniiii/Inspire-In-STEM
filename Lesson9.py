@@ -5,6 +5,9 @@
 
 #Initializing Dictionaries
 
+from webbrowser import get
+
+
 student={"Name":"sheryl","age":18,"Gender":"female","hobby":"swimming" }
 #rint(student["hobby"])
 student["ID number"]="23026124"
@@ -69,6 +72,12 @@ for key, value in person.items():
 
 
 colors =["red","green","blue","yellow","purple"]
+
+
+
+
+
+
 
 
 
