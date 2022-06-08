@@ -1,0 +1,5 @@
+This is a normal text file 
+learning python is fun
+Today is a windy day
+
+
