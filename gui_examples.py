@@ -28,7 +28,7 @@ def open_popup():
     top.geometry("300x300")
     top.title("Pop Up window")
     top.configure(bg="green")
-    msg=Label(top,text ="Welcome to this new app",font=("Mistral 18"), command=open_popup().pack())
+    msg = Label(top,text ="Welcome to this new app",font=("Mistral 18"), command=open_popup().pack())
 
 
 
